@@ -52,6 +52,19 @@ Web の根幹を支える技術（URI・HTTP・HTML・REST）を体系的に理�
 
 ---
 
+## 番外編：Office 研修 予習ガイド
+
+内定者研修の Office 製品研修（Word / Excel / PowerPoint）に向けた予習資料です。
+
+- [Office 研修 予習ガイド（目次）](Office研修_予習/README.md)
+  - [共通操作とショートカット](Office研修_予習/00_共通/01_Office共通操作とショートカット.md)
+  - [Word](Office研修_予習/01_Word/01_Wordの基本操作と画面構成.md)（全 5 章）
+  - [Excel](Office研修_予習/02_Excel/01_Excelの基本操作とデータ入力.md)（全 7 章 + 練習用ブック）
+  - [PowerPoint](Office研修_予習/03_PowerPoint/01_PowerPointの基本操作.md)（全 5 章）
+  - [総合確認テスト（50 問）](Office研修_予習/04_確認テスト/総合確認テスト.md)
+
+---
+
 ## 推奨学習順序
 
 ```
